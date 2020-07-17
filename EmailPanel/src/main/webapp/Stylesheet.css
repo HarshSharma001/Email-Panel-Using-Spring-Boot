@@ -1,0 +1,59 @@
+body
+{
+	background-color: #E2855D;
+}
+
+form
+{
+	font-family: Consolas;
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+	border-radius: 20px;
+	border: 2px solid black;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+input
+{	
+	height: 22px;
+	width: 300px;
+}
+
+#sendmail
+{
+	height: 22px;
+	width: 100px;
+	margin-left: 60px;
+	margin-right: 48px;
+}
+
+select
+{	
+	height: 22px;
+	width: 300px;
+}
+
+textarea
+{
+	font-size: 17px;
+	height: 300px;
+	width: 500px;
+	margin-left: 77px;
+}
+
+
+#attachfiles
+{
+	height: 22px;
+	width: 95px;
+}
+
+
+#addrecipient
+{
+	height: 22px;
+	width: 90px;
+}
